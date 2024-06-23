@@ -1,9 +1,9 @@
 
 import React from 'react';
-import Cuadro from './Cuadro';
-import Pared from './Pared';
-import Foco from './Foco';
-import AireAcondicionado from './AireAcondicionado';
+import Cuadro from './domesticos/Cuadro';
+import Pared from './domesticos/Pared';
+import Foco from './domesticos/Foco';
+import AireAcondicionado from './domesticos/AireAcondicionado';
 
 function App() {
   return (
